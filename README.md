@@ -4,8 +4,6 @@ Unidade Lógica e Aritmética de 5 bits (sinal-magnitude) com decodificador BCD 
 
 Projeto da primeira unidade de **Sistemas Digitais (CIN0007)** – Engenharia da Computação, CIn-UFPE. 
 
--
-
 ## Como abrir o projeto
 
 1. Baixe o repositório (**Code → Download ZIP**) e **extraia** o ZIP numa pasta sem acentos e sem espaços no caminho.
