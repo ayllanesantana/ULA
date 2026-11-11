@@ -1,4 +1,4 @@
-# Projeto da ULA 
+# ULA 
 
 Unidade Lógica e Aritmética de 5 bits (sinal-magnitude) com decodificador BCD para displays de 7 segmentos, feita **somente com portas lógicas** no Quartus Prime Lite 21.1 e pronta para a placa **DE2-115** (FPGA Cyclone IV E **EP4CE115F29C7**).
 
