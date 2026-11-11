@@ -1,8 +1,7 @@
-# Projeto da ULA – Primeira Unidade
+# Projeto da ULA 
 
 Unidade Lógica e Aritmética de 5 bits (sinal-magnitude) com decodificador BCD para displays de 7 segmentos, feita **somente com portas lógicas** no Quartus Prime Lite 21.1 e pronta para a placa **DE2-115** (FPGA Cyclone IV E **EP4CE115F29C7**).
 
-Projeto da primeira unidade de **Sistemas Digitais (CIN0007)** – Engenharia da Computação, CIn-UFPE. 
 
 ## Como abrir o projeto
 
